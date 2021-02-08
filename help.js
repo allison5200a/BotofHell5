@@ -1,7 +1,7 @@
 
 const help = (prefix) => { 
 	return `                 
-┏━━❉ *About Bot* ❉━━┓
+┏━━❉ *Menu BotofHell5* ❉━━┓
 ┣⊱ *${prefix}owner*
 ┣⊱ *${prefix}donasi*
 ┣⊱ *${prefix}info*
@@ -67,7 +67,7 @@ const help = (prefix) => {
 ┣━━❀ *Group* ❀━━
 ┣⊱ *${prefix}linkgc*
 ┣⊱ *${prefix}tagall*
-┣⊱ *${prefix}add* [+62xx]
+┣⊱ *${prefix}add* [+55xx]
 ┣⊱ *${prefix}group* [buka/tutup]
 ┣⊱ *${prefix}demote* [tag]
 ┣⊱ *${prefix}promote* [tag]
@@ -85,7 +85,7 @@ const help = (prefix) => {
 ┣⊱ *${prefix}setpp*
 ┣⊱ *${prefix}setprefix*
 ┣━━━━━━━━━━━━━━
-┃    *BOT BY AFFIS*
+┃    *BOT BY SR>ALLISON*
 ┗━━━━━━━━━━━━━━
 
 `
